@@ -1,0 +1,6 @@
+# Generate requirements.txt with actually used packages with pipreqs . --force
+python-dotenv
+pydantic
+pydantic-settings
+pytest
+pipreqs
